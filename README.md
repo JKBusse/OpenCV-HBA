@@ -1,2 +1,2 @@
-# OpenCV-HBA
-High beam assistant with OpenCV
+# YOLOv8-HBA
+High beam assistant with VOLOv8 Machine Learning 
